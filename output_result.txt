@@ -1,0 +1,18 @@
+Target1: [woman, mother]
+Target2: [man, father]
+Attributes1:[health, happy]
+Attributes2: [pollute, tragedy]
+language-bias: p-value: 0.11226009680438054 , effectSize: 1.1705620116797428
+
+Xia, 0.0, 0.3049365081659895, 0.7057031753878432, 76208
+weat, 0.0, -0.15446956426780775, 0.7446856940616139, 386075
+Xia, 0.0, 0.3049365081659895, 0.7057031753878432, 76208
+weat, 0.0, -0.15446956426780775, 0.7446856940616139, 386075
+Target1: [woman, mother]
+Target2: [man, father]
+Attributes1:[health, happy]
+Attributes2: [pollute, tragedy]
+language-bias: p-value: 0.1085373263484346 , effectSize: 1.1705620116797428
+
+
+
